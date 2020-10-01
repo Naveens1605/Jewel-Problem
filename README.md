@@ -1,2 +1,2 @@
 # Jewel-Problem
-This is solution of Problem from Leetcode
+This is solution of Problem from Leetcode.
